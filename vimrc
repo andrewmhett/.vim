@@ -34,8 +34,10 @@ endif
 :set cursorline 
 let g:airline_powerline_fonts = 1 
 let g:airline#extensions#tabline#enabled = 1 
+let mapleader = "."
 :colorscheme molokai 
 set undodir=~/.vim/undodir 
 set undofile 
 filetype plugin on 
 set updatetime=100
+set autoindent
