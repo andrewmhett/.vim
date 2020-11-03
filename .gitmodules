@@ -7,3 +7,18 @@
 [submodule "pack/vendor/start/syntastic"]
 	path = pack/vendor/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic
+[submodule "pack/vendor/start/auto-pairs"]
+	path = pack/vendor/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "pack/vendor/start/nerdcommenter"]
+	path = pack/vendor/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter
+[submodule "pack/vendor/start/nerdtree"]
+	path = pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/vendor/start/vim-airline"]
+	path = pack/vendor/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/vendor/start/vim-gitgutter"]
+	path = pack/vendor/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
