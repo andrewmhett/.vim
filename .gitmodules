@@ -22,3 +22,6 @@
 [submodule "pack/vendor/start/vim-fugitive"]
 	path = pack/vendor/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/vendor/start/vim-obsession"]
+	path = pack/vendor/start/vim-obsession
+	url = https://github.com/tpope/vim-obsession
