@@ -25,3 +25,6 @@
 [submodule "pack/vendor/start/vim-obsession"]
 	path = pack/vendor/start/vim-obsession
 	url = https://github.com/tpope/vim-obsession
+[submodule "pack/vendor/start/fzf.vim"]
+	path = pack/vendor/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim
