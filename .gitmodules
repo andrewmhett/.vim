@@ -27,7 +27,7 @@
 	url = https://github.com/junegunn/fzf.vim
 [submodule "pack/vendor/start/ale"]
 	path = pack/vendor/start/ale
-	url = https://github.com/dense-anaysis/ale
+	url = https://github.com/dense-analysis/ale
 [submodule "pack/vendor/start/indentline"]
 	path = pack/vendor/start/indentline
-	url = https://github.com/yggdroot/indentLine
+	url = https://github.com/yggdroot/indentline
