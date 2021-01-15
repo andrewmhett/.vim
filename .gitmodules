@@ -1,9 +1,6 @@
 [submodule "pack/vendor/start/vim-surround"]
 	path = pack/vendor/start/vim-surround
 	url = https://github.com/tpope/vim-surround
-[submodule "pack/vendor/start/syntastic"]
-	path = pack/vendor/start/syntastic
-	url = https://github.com/vim-syntastic/syntastic
 [submodule "pack/vendor/start/auto-pairs"]
 	path = pack/vendor/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs
