@@ -28,3 +28,6 @@
 [submodule "pack/vendor/start/indentline"]
 	path = pack/vendor/start/indentline
 	url = https://github.com/yggdroot/indentline
+[submodule "pack/vendor/start/vim-tmux-focus-events"]
+	path = pack/vendor/start/vim-tmux-focus-events
+	url = https://github.com/tmux-plugins/vim-tmux-focus-events
