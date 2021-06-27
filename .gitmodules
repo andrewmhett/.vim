@@ -13,9 +13,6 @@
 [submodule "pack/vendor/start/vim-airline"]
 	path = pack/vendor/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline
-[submodule "pack/vendor/start/vim-gitgutter"]
-	path = pack/vendor/start/vim-gitgutter
-	url = https://github.com/airblade/vim-gitgutter
 [submodule "pack/vendor/start/vim-fugitive"]
 	path = pack/vendor/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
@@ -31,3 +28,9 @@
 [submodule "pack/vendor/start/vim-tmux-focus-events"]
 	path = pack/vendor/start/vim-tmux-focus-events
 	url = https://github.com/tmux-plugins/vim-tmux-focus-events
+[submodule "pack/vendor/start/vim-devicons"]
+	path = pack/vendor/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
+[submodule "pack/vendor/start/vim-signify"]
+	path = pack/vendor/start/vim-signify
+	url = https://github.com/mhinz/vim-signify
