@@ -34,3 +34,9 @@
 [submodule "pack/vendor/start/vim-signify"]
 	path = pack/vendor/start/vim-signify
 	url = https://github.com/mhinz/vim-signify
+[submodule "colors/cyberspace.vim"]
+	path = colors/cyberspace.vim
+	url = https://github.com/hiroakis/cyberspace.vim
+[submodule "colors/Spacegray.vim"]
+	path = colors/Spacegray.vim
+	url = https://github.com/ackyshake/Spacegray.vim

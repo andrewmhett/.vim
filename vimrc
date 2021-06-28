@@ -39,9 +39,8 @@ endif
 :set cursorline
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
-let g:airline#symbols#linenr = '≡'
 let mapleader = "."
-:colorscheme molokai
+:colorscheme spacegray
 let $undodir = "~/.vim/undodir/"
 set undofile
 filetype plugin on
