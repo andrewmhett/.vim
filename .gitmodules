@@ -43,3 +43,6 @@
 [submodule "pack/vendor/start/vim-minimap"]
 	path = pack/vendor/start/vim-minimap
 	url = https://github.com/severin-lemaignan/vim-minimap
+[submodule "pack/vendor/start/gruvbox"]
+	path = pack/vendor/start/gruvbox
+	url = https://github.com/morhetz/gruvbox
