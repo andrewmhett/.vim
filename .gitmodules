@@ -34,9 +34,15 @@
 [submodule "pack/vendor/start/vim-signify"]
 	path = pack/vendor/start/vim-signify
 	url = https://github.com/mhinz/vim-signify
-[submodule "colors/cyberspace.vim"]
-	path = colors/cyberspace.vim
-	url = https://github.com/hiroakis/cyberspace.vim
 [submodule "colors/Spacegray.vim"]
 	path = colors/Spacegray.vim
 	url = https://github.com/ackyshake/Spacegray.vim
+[submodule "pack/vendor/start/vim-wakatime"]
+	path = pack/vendor/start/vim-wakatime
+	url = https://github.com/wakatime/vim-wakatime
+[submodule "pack/vendor/start/tabular"]
+	path = pack/vendor/start/tabular
+	url = https://github.com/godlygeek/tabular
+[submodule "pack/vendor/start/nerdtree-git-plugin"]
+	path = pack/vendor/start/nerdtree-git-plugin
+	url = https://github.com/xuyuanp/nerdtree-git-plugin
