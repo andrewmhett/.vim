@@ -36,14 +36,16 @@ endif
 if filereadable("/etc/vim/vimrc.local")
   source /etc/vim/vimrc.local
 endif
-:set cursorline
+set cursorline
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
 let mapleader = "."
 :colorscheme Tomorrow-Night
-let $undodir = "~/.vim/undodir/"
+let $undodir = "~/.vim/undo"
 set undofile
 filetype plugin on
 set updatetime=100
 set autoindent
 set nu
+set backspace=indent,eol,start
+au BufEnter * if loaded_minimap == 1 | call minimap#ShowMinimap() | endif

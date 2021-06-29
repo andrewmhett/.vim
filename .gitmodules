@@ -16,18 +16,12 @@
 [submodule "pack/vendor/start/vim-fugitive"]
 	path = pack/vendor/start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
-[submodule "pack/vendor/start/fzf.vim"]
-	path = pack/vendor/start/fzf.vim
-	url = https://github.com/junegunn/fzf.vim
 [submodule "pack/vendor/start/ale"]
 	path = pack/vendor/start/ale
 	url = https://github.com/dense-analysis/ale
 [submodule "pack/vendor/start/indentline"]
 	path = pack/vendor/start/indentline
 	url = https://github.com/yggdroot/indentline
-[submodule "pack/vendor/start/vim-tmux-focus-events"]
-	path = pack/vendor/start/vim-tmux-focus-events
-	url = https://github.com/tmux-plugins/vim-tmux-focus-events
 [submodule "pack/vendor/start/vim-devicons"]
 	path = pack/vendor/start/vim-devicons
 	url = https://github.com/ryanoasis/vim-devicons
@@ -46,3 +40,6 @@
 [submodule "pack/vendor/start/nerdtree-git-plugin"]
 	path = pack/vendor/start/nerdtree-git-plugin
 	url = https://github.com/xuyuanp/nerdtree-git-plugin
+[submodule "pack/vendor/start/vim-minimap"]
+	path = pack/vendor/start/vim-minimap
+	url = https://github.com/severin-lemaignan/vim-minimap
